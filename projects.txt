@@ -1,0 +1,375 @@
+3D Renderer|Introduction to Ray Tracing|C++|A Simple Method for Creating 3D Images|https://www.scratchapixel.com/lessons/3d-basic-rendering/introduction-to-ray-tracing/how-does-it-work|0
+3D Renderer|How OpenGL Works|C++|Software rendering in 500 lines of code|https://github.com/ssloy/tinyrenderer/wiki|0
+3D Renderer|Raycasting Engine of Wolfenstein 3D|C++|A guide on raycasting|http://lodev.org/cgtutor/raycasting.html|0
+3D Renderer|Physically Based Rendering|C++|From Theory To Implementation|http://www.pbr-book.org/|0
+3D Renderer|Ray Tracing in One Weekend|C++|Ray Tracing in One Weekend Book|https://raytracing.github.io/books/RayTracingInOneWeekend.html|0
+3D Renderer|Rasterization Practical Implementation|C++|An overview of the rasterization algorithm|https://www.scratchapixel.com/lessons/3d-basic-rendering/rasterization-practical-implementation/overview-rasterization-algorithm|0
+3D Renderer|3D Soft Engine|C# / TypeScript / JavaScript|Learning how to write a 3D soft engine|https://www.davrous.com/2013/06/13/tutorial-series-learning-how-to-write-a-3d-soft-engine-from-scratch-in-c-typescript-or-javascript/|0
+3D Renderer|Build your own 3D renderer|Java / JavaScript|A tutorial on building a 3D renderer|https://avik-das.github.io/build-your-own-raytracer/|0
+3D Renderer|Simple 3D Render Engine in Java|Java|How to create a simple 3D render engine in Java|http://blog.rogach.org/2015/08/how-to-create-your-own-simple-3d-render.html|0
+3D Renderer|Computer Graphics from scratch|JavaScript / Pseudocode|An introduction to computer graphics|http://www.gabrielgambetta.com/computer-graphics-from-scratch/introduction.html|0
+3D Renderer|A 3D Modeller|Python|A guide on building a 3D modeller|http://aosabook.org/en/500L/a-3d-modeller.html|0
+
+Augmented Reality|AR App with Vuforia and Unity|C#|A tutorial for beginners with Vuforia and Unity 3D|https://www.youtube.com/watch?v=uXNjNcqW4kY|0
+Augmented Reality|Unity ARCore Tutorial|C#|A video series on Unity ARCore|https://www.youtube.com/playlist?list=PLKIKuXdn4ZMjuUAtdQfK1vwTZPQn_rgSv|0
+Augmented Reality|AR Portal with Unity|C#|A video series on creating AR Portals with Unity|https://www.youtube.com/playlist?list=PLPCqNOwwN794Gz5fzUSi1p4OqLU0HTmvn|0
+Augmented Reality|Create a Dragon in AR|C#|How to create a Dragon in Augmented Reality in Unity ARCore|https://www.youtube.com/watch?v=qTSDPkPyPqs|0
+Augmented Reality|ARKit Portal Tutorial|C#|AR Tutorial: ARKit Portal to the Upside Down|https://www.youtube.com/watch?v=Z5AmqMuNi08|0
+Augmented Reality|Augmented Reality with Python and OpenCV|Python|A guide on using Python and OpenCV for AR|https://bitesofcode.wordpress.com/2017/09/12/augmented-reality-with-python-and-opencv-part-1/|0
+
+BitTorrent Client|BitTorrent client in C#|C#|Building a BitTorrent client from scratch in C#|https://www.seanjoflynn.com/research/bittorrent.html|0
+BitTorrent Client|BitTorrent client in Go|Go|Building a BitTorrent client from the ground up in Go|https://blog.jse.li/posts/torrent/|0
+BitTorrent Client|Writing a Bencode Parser|Nim|A tutorial on writing a Bencode Parser|https://xmonader.github.io/nimdays/day02_bencode.html|0
+BitTorrent Client|Write your own BitTorrent client|Node.js|A tutorial on writing a BitTorrent client|https://allenkim67.github.io/programming/2016/05/04/how-to-make-your-own-bittorrent-client.html|0
+BitTorrent Client|A BitTorrent client in Python|Python|A tutorial on building a BitTorrent client in Python|http://markuseliasson.se/article/bittorrent-in-python/|0
+
+Blockchain / Cryptocurrency|Functional Blockchain|ATS|Build a functional blockchain|https://beta.observablehq.com/@galletti94/functional-blockchain|0
+Blockchain / Cryptocurrency|Programming The Blockchain in C#|C#|A guide on programming the blockchain in C#|https://programmingblockchain.gitbooks.io/programmingblockchain/|0
+Blockchain / Cryptocurrency|Write your own blockchain and PoW algorithm|Crystal|A tutorial on writing your own blockchain and PoW algorithm using Crystal|https://medium.com/@bradford_hamilton/write-your-own-blockchain-and-pow-algorithm-using-crystal-d53d5d9d0c52|0
+Blockchain / Cryptocurrency|Building Blockchain in Go|Go|A step-by-step guide on building a blockchain in Go|https://jeiwan.net/posts/building-blockchain-in-go-part-1/|0
+Blockchain / Cryptocurrency|Code your own blockchain in less than 200 lines of Go|Go|A guide on coding a blockchain in under 200 lines of Go|https://medium.com/@mycoralhealth/code-your-own-blockchain-in-less-than-200-lines-of-go-e296282bcffc|0
+Blockchain / Cryptocurrency|Creating Your First Blockchain with Java|Java|A tutorial on creating your first blockchain with Java|https://medium.com/programmers-blockchain/create-simple-blockchain-java-tutorial-from-scratch-6eeed3cb03fa|0
+Blockchain / Cryptocurrency|A cryptocurrency implementation in less than 1500 lines of code|JavaScript|A JavaScript cryptocurrency implementation in under 1500 lines|https://github.com/conradoqg/naivecoin|0
+Blockchain / Cryptocurrency|Build your own Blockchain in JavaScript|JavaScript|A tutorial on building a blockchain in JavaScript|https://github.com/nambrot/blockchain-in-js|0
+Blockchain / Cryptocurrency|Learn & Build a JavaScript Blockchain|JavaScript|A step-by-step guide to learning and building a JavaScript blockchain|https://medium.com/digital-alchemy-holdings/learn-build-a-javascript-blockchain-part-1-ca61c285821e|0
+Blockchain / Cryptocurrency|Creating a blockchain with JavaScript|JavaScript|A tutorial on creating a blockchain with JavaScript|https://github.com/SavjeeTutorials/SavjeeCoin|0
+Blockchain / Cryptocurrency|How To Launch Your Own Production-Ready Cryptocurrency|JavaScript|A guide to launching your own production-ready cryptocurrency|https://hackernoon.com/how-to-launch-your-own-production-ready-cryptocurrency-ab97cb773371|0
+Blockchain / Cryptocurrency|Writing a Blockchain in Node.js|JavaScript|A tutorial on writing a blockchain in Node.js|https://www.smashingmagazine.com/2020/02/cryptocurrency-blockchain-node-js/|0
+Blockchain / Cryptocurrency|Let’s implement a cryptocurrency in Kotlin|Kotlin|A guide on implementing a cryptocurrency in Kotlin|https://medium.com/@vasilyf/lets-implement-a-cryptocurrency-in-kotlin-part-1-blockchain-8704069f8580|0
+Blockchain / Cryptocurrency|Learn Blockchains by Building One|Python|A step-by-step guide to learning blockchains by building one|https://hackernoon.com/learn-blockchains-by-building-one-117428612f46|0
+Blockchain / Cryptocurrency|Build your own blockchain: a Python tutorial|Python|A Python tutorial on building your own blockchain|http://ecomunsing.com/build-your-own-blockchain|0
+Blockchain / Cryptocurrency|A Practical Introduction to Blockchain with Python|Python|An introduction to blockchain with Python|http://adilmoujahid.com/posts/2018/03/intro-blockchain-bitcoin-python/|0
+Blockchain / Cryptocurrency|Let’s Build the Tiniest Blockchain|Python|A tutorial on building the tiniest blockchain|https://medium.com/crypto-currently/lets-build-the-tiniest-blockchain-e70965a248b|0
+Blockchain / Cryptocurrency|Programming Blockchains Step-by-Step (Manuscripts Book Edition)|Ruby|A step-by-step guide to programming blockchains|https://github.com/yukimotopress/programming-blockchains-step-by-step|0
+Blockchain / Cryptocurrency|How to build a simple actor-based blockchain|Scala|A guide on building a simple actor-based blockchain|https://medium.freecodecamp.org/how-to-build-a-simple-actor-based-blockchain-aac1e996c177|0
+Blockchain / Cryptocurrency|Naivecoin: a tutorial for building a cryptocurrency|TypeScript|A tutorial for building a cryptocurrency using Naivecoin|https://lhartikk.github.io/|0
+Blockchain / Cryptocurrency|NaivecoinStake: a tutorial for building a cryptocurrency with the Proof of Stake consensus|TypeScript|A tutorial for building a cryptocurrency with the Proof of Stake consensus using NaivecoinStake|https://naivecoinstake.learn.uno/|0
+Blockchain / Cryptocurrency|Building A Blockchain in Rust & Substrate|Rust|A step-by-step guide to building a blockchain in Rust and Substrate|https://hackernoon.com/building-a-blockchain-in-rust-and-substrate-a-step-by-step-guide-for-developers-kc223ybp|0
+
+Bot|Roll your own IRC bot|Haskell|A guide on building an IRC bot in Haskell|https://wiki.haskell.org/Roll_your_own_IRC_bot|0
+Bot|Creating a Simple Facebook Messenger AI Bot|Node.js|A tutorial on creating a Facebook Messenger AI bot with API.ai in Node.js|https://tutorials.botsfloor.com/creating-a-simple-facebook-messenger-ai-bot-with-api-ai-in-node-js-50ae2fa5c80d|0
+Bot|How to make a responsive telegram bot|Node.js|A guide on making a responsive Telegram bot in Node.js|https://www.sohamkamani.com/blog/2016/09/21/making-a-telegram-bot/|0
+Bot|Create a Discord bot|Node.js|A guide on creating a Discord bot|https://discordjs.guide/|0
+Bot|gifbot - Building a GitHub App|Node.js|A tutorial on building a GitHub app called gifbot|https://blog.scottlogic.com/2017/05/22/gifbot-github-integration.html|0
+Bot|Building A Simple AI Chatbot|Node.js|A guide to building a simple AI chatbot with Web Speech API and Node.js|https://www.smashingmagazine.com/2017/08/ai-chatbot-web-speech-api-node-js/|0
+Bot|How to Build Your First Slack Bot|Python|A guide to building your first Slack bot in Python|https://www.fullstackpython.com/blog/build-first-slack-bot-python.html|0
+Bot|How to build a Slack Bot with Python|Python|A tutorial on building a Slack bot with Python using Slack Events API & Django|https://medium.com/freehunch/how-to-build-a-slack-bot-with-python-using-slack-events-api-django-under-20-minute-code-included-269c3a9bf64e|0
+Bot|Build a Reddit Bot|Python|A guide on building a Reddit bot in Python|http://pythonforengineers.com/build-a-reddit-bot-part-1/|0
+Bot|How To Make A Reddit Bot|Python|A video tutorial on creating a Reddit bot in Python|https://www.youtube.com/watch?v=krTUf7BpTc0|0
+Bot|How To Create a Telegram Bot Using Python|Python|A guide on creating a Telegram bot using Python|https://www.freecodecamp.org/news/how-to-create-a-telegram-bot-using-python/|0
+Bot|Create a Twitter Bot in Python Using Tweepy|Python|A guide on creating a Twitter bot using Tweepy|https://medium.freecodecamp.org/creating-a-twitter-bot-in-python-with-tweepy-ac524157a607|0
+Bot|Creating Reddit Bot with Python & PRAW|Python|A video series on creating a Reddit bot with Python & PRAW|https://www.youtube.com/playlist?list=PLIFBTFgFpoJ9vmYYlfxRFV6U_XhG-4fpP|0
+Bot|Build A Cryptocurrency Trading Bot with R|R|A guide to building a cryptocurrency trading bot in R|https://towardsdatascience.com/build-a-cryptocurrency-trading-bot-with-r-1445c429e1b1|0
+Bot|A bot for Starcraft in Rust|Rust|A tutorial on building a bot for Starcraft in Rust|https://habr.com/en/post/436254/|0
+
+Command-Line Tool|Visualize your local git contributions|Go|A tutorial on visualizing local git contributions with Go|https://flaviocopes.com/go-git-contributions/|0
+Command-Line Tool|Build a command line app with Go|Go|A guide on building a command line app with Go|https://flaviocopes.com/go-tutorial-lolcat/|0
+Command-Line Tool|Building a cli command with Go|Go|A tutorial on building a CLI command with Go|https://flaviocopes.com/go-tutorial-cowsay/|0
+Command-Line Tool|Go CLI tutorial: fortune clone|Go|A guide on building a fortune clone CLI tool in Go|https://flaviocopes.com/go-tutorial-fortune/|0
+Command-Line Tool|Writing a stow alternative to manage dotfiles|Nim|A guide on writing a stow alternative to manage dotfiles in Nim|https://xmonader.github.io/nimdays/day06_nistow.html|0
+Command-Line Tool|Create a CLI tool in Javascript|Node.js|A guide on creating a CLI tool in JavaScript|https://citw.dev/tutorial/create-your-own-cli-tool|0
+Command-Line Tool|Command line apps in Rust|Rust|A tutorial on writing command-line apps in Rust|https://rust-cli.github.io/book/index.html|0
+Command-Line Tool|Writing a Command Line Tool in Rust|Rust|A guide on writing a command line tool in Rust|https://mattgathu.dev/2017/08/29/writing-cli-app-rust.html|0
+
+Database|Let's Build a Simple Database|C|A tutorial to build a simple database in C|https://cstack.github.io/db_tutorial/|0
+Database|Build Your Own Redis from Scratch|C++|A guide to building Redis from scratch in C++|https://build-your-own.org/redis|0
+Database|Build Your Own Database|C#|A project to create your own database in C#|https://www.codeproject.com/Articles/1029838/Build-Your-Own-Database|0
+Database|An Archaeology-Inspired Database|Clojure|A database inspired by archaeology concepts|http://aosabook.org/en/500L/an-archaeology-inspired-database.html|0
+Database|Why you should build your own NoSQL Database|Crystal|A tutorial to build your own NoSQL Database in Crystal|https://medium.com/@marceloboeira/why-you-should-build-your-own-nosql-database-9bbba42039f5|0
+Database|Build Your Own Database from Scratch: Persistence, Indexing, Concurrency|Go|A tutorial to build your own database in Go|https://build-your-own.org/database/|0
+Database|Build Your Own Redis from Scratch|Go|Learn how to build Redis from scratch in Go|https://www.build-redis-from-scratch.dev/|0
+Database|Dagoba: an in-memory graph database|JavaScript|A guide to building an in-memory graph database in JavaScript|http://aosabook.org/en/500L/dagoba-an-in-memory-graph-database.html|0
+Database|DBDB: Dog Bed Database|Python|Learn to build a Dog Bed Database in Python|http://aosabook.org/en/500L/dbdb-dog-bed-database.html|0
+Database|Write your own miniature Redis with Python|Python|A tutorial to build a miniature Redis in Python|http://charlesleifer.com/blog/building-a-simple-redis-server-with-python/|0
+Database|Build your own fast, persistent KV store in Ruby|Ruby|Create a fast, persistent KV store in Ruby|https://dineshgowda.com/posts/build-your-own-persistent-kv-store/|0
+Database|Build your own Redis client and server|Rust|A tutorial to build a Redis client and server in Rust|https://tokio.rs/tokio/tutorial/setup|0
+
+Docker|Linux containers in 500 lines of code|C|A tutorial to build Linux containers in C|https://blog.lizzie.io/linux-containers-in-500-loc.html|0
+Docker|Build Your Own Container Using Less than 100 Lines of Go|Go|Learn to build a container in Go|https://www.infoq.com/articles/build-a-container-golang|0
+Docker|Building a container from scratch in Go|Go|A video tutorial on building a container from scratch in Go|https://www.youtube.com/watch?v=8fi7uSYlOdc|1
+Docker|A workshop on Linux containers: Rebuild Docker from Scratch|Python|A workshop to rebuild Docker using Python|https://github.com/Fewbytes/rubber-docker|0
+Docker|A proof-of-concept imitation of Docker, written in 100% Python|Python|An imitation of Docker in Python|https://github.com/tonybaloney/mocker|0
+Docker|Docker implemented in around 100 lines of bash|Shell|Build Docker in bash with minimal lines of code|https://github.com/p8952/bocker|0
+
+Emulator / Virtual Machine|Home-grown bytecode interpreters|C|A guide to building bytecode interpreters in C|https://medium.com/bumble-tech/home-grown-bytecode-interpreters-51e12d59b25c|0
+Emulator / Virtual Machine|Virtual machine in C|C|A tutorial on building a virtual machine in C|http://web.archive.org/web/20200121100942/https://blog.felixangell.com/virtual-machine-in-c/|0
+Emulator / Virtual Machine|Write your Own Virtual Machine|C|Learn how to build your own virtual machine|https://justinmeiners.github.io/lc3-vm/|0
+Emulator / Virtual Machine|Writing a Game Boy emulator, Cinoop|C|A tutorial to build a Game Boy emulator|https://cturt.github.io/cinoop.html|0
+Emulator / Virtual Machine|How to write an emulator (CHIP-8 interpreter)|C++|Learn to write a CHIP-8 interpreter in C++|http://www.multigesture.net/articles/how-to-write-an-emulator-chip-8-interpreter/|0
+Emulator / Virtual Machine|Emulation tutorial (CHIP-8 interpreter)|C++|A tutorial on building a CHIP-8 emulator in C++|http://www.codeslinger.co.uk/pages/projects/chip8.html|0
+Emulator / Virtual Machine|Emulation tutorial (GameBoy emulator)|C++|Learn to write a GameBoy emulator in C++|http://www.codeslinger.co.uk/pages/projects/gameboy.html|0
+Emulator / Virtual Machine|Emulation tutorial (Master System emulator)|C++|A guide on building a Master System emulator|http://www.codeslinger.co.uk/pages/projects/mastersystem/memory.html|0
+Emulator / Virtual Machine|NES Emulator From Scratch|C++|A video series on building an NES emulator|https://www.youtube.com/playlist?list=PLrOv9FMX8xJHqMvSGB_9G9nZZ_4IgteYf|1
+Emulator / Virtual Machine|CHIP-8 in Common Lisp|Common Lisp|A tutorial on building a CHIP-8 interpreter in Common Lisp|http://stevelosh.com/blog/2016/12/chip8-cpu/|0
+Emulator / Virtual Machine|GameBoy Emulation in JavaScript|JavaScript|Learn how to build a GameBoy emulator in JavaScript|http://imrannazar.com/GameBoy-Emulation-in-JavaScript|0
+Emulator / Virtual Machine|Emulation Basics: Write your own Chip 8 Emulator/Interpreter|Python|A tutorial on writing a Chip 8 Emulator/Interpreter in Python|http://omokute.blogspot.com.br/2012/06/emulation-basics-write-your-own-chip-8.html|0
+Emulator / Virtual Machine|0dmg: Learning Rust by building a partial Game Boy emulator|Rust|A guide on building a Game Boy emulator in Rust|https://jeremybanks.github.io/0dmg/|0
+
+Front-end Framework / Library|WTF is JSX (Let's Build a JSX Renderer)|JavaScript|Learn how JSX works by building a renderer|https://jasonformat.com/wtf-is-jsx/|0
+Front-end Framework / Library|A DIY guide to build your own React|JavaScript|Learn to build your own React|https://github.com/hexacta/didact|0
+Front-end Framework / Library|Building React From Scratch|JavaScript|A video tutorial on building React from scratch|https://www.youtube.com/watch?v=_MAD4Oly9yg|1
+Front-end Framework / Library|Gooact: React in 160 lines of JavaScript|JavaScript|Learn to build React in minimal lines of code|https://medium.com/@sweetpalma/gooact-react-in-160-lines-of-javascript-44e0742ad60f|0
+Front-end Framework / Library|Learn how React Reconciler package works by building your own lightweight React DOM|JavaScript|Learn how React Reconciler works|https://hackernoon.com/learn-you-some-custom-react-renderers-aed7164a4199|0
+Front-end Framework / Library|Build Yourself a Redux|JavaScript|Learn to build Redux from scratch|https://zapier.com/engineering/how-to-build-redux/|0
+Front-end Framework / Library|Let’s Write Redux!|JavaScript|Learn how to implement Redux|https://www.jamasoftware.com/blog/lets-write-redux/|0
+Front-end Framework / Library|Redux: Implementing Store from Scratch|JavaScript|Learn how to implement Redux Store|https://egghead.io/lessons/react-redux-implementing-store-from-scratch|1
+Front-end Framework / Library|Build Your own Simplified AngularJS in 200 Lines of JavaScript|JavaScript|Learn to build a simplified version of AngularJS|https://blog.mgechev.com/2015/03/09/build-learn-your-own-light-lightweight-angularjs/|0
+Front-end Framework / Library|Make Your Own AngularJS|JavaScript|Learn how to make your own AngularJS|http://teropa.info/blog/2013/11/03/make-your-own-angular-part-1-scopes-and-digest.html|0
+Front-end Framework / Library|How to write your own Virtual DOM|JavaScript|Learn to write your own Virtual DOM|https://medium.com/@deathmood/how-to-write-your-own-virtual-dom-ee74acc13060|0
+Front-end Framework / Library|Building a frontend framework, from scratch, with components (templating, state, VDOM)|JavaScript|Build a frontend framework with components|https://mfrachet.github.io/create-frontend-framework/|0
+Front-end Framework / Library|Build your own React|JavaScript|Learn how to build your own React framework|https://pomb.us/build-your-own-react/|0
+Front-end Framework / Library|Building a Custom React Renderer|JavaScript|A video tutorial on building a custom React Renderer|https://youtu.be/CGpMlWVcHok|1
+
+Game|Handmade Hero|C|A project to build a complete game from scratch|https://handmadehero.org/|0
+Game|How to Program an NES game in C|C|Learn to program an NES game in C|https://nesdoug.com/|0
+Game|Chess Engine In C|C|A video series on building a Chess engine in C|https://www.youtube.com/playlist?list=PLZ1QII7yudbc-Ky058TEaOstZHVbT-2hg|1
+Game|Let's Make: Dangerous Dave|C|A video tutorial on recreating Dangerous Dave|https://www.youtube.com/playlist?list=PLSkJey49cOgTSj465v2KbLZ7LMn10bCF9|1
+Game|Learn Video Game Programming in C|C|A video series on learning game programming in C|https://www.youtube.com/playlist?list=PLT6WFYYZE6uLMcPGS3qfpYm7T_gViYMMt|1
+Game|Coding A Sudoku Solver in C|C|A video series on coding a Sudoku solver|https://www.youtube.com/playlist?list=PLkTXsX7igf8edTYU92nU-f5Ntzuf-RKvW|1
+Game|Coding a Rogue/Nethack RPG in C|C|A video tutorial on coding a Rogue-like game|https://www.youtube.com/playlist?list=PLkTXsX7igf8erbWGYT4iSAhpnJLJ0Nk5G|1
+Game|On Tetris and Reimplementation|C|An article on reimplementing Tetris|https://brennan.io/2015/06/12/tetris-reimplementation/|0
+Game|Breakout|C++|A guide to building a Breakout game using OpenGL|https://learnopengl.com/In-Practice/2D-Game/Breakout|0
+Game|Beginning Game Programming v2.0|C++|A series of tutorials on game programming with SDL|http://lazyfoo.net/tutorials/SDL/|0
+Game|Tetris tutorial in C++|C++|A tutorial focused on game logic for building Tetris|http://javilop.com/gamedev/tetris-tutorial-in-c-platform-independent-focused-in-game-logic-for-beginners/|0
+Game|Remaking Cavestory in C++|C++|A video series on recreating Cave Story|https://www.youtube.com/watch?v=ETvApbD5xRo&list=PLNOBk_id22bw6LXhrGfhVwqQIa-M2MsLa|1
+Game|Reconstructing Cave Story|C++|A video series on reconstructing Cave Story|https://www.youtube.com/playlist?list=PL006xsVEsbKjSKBmLu1clo85yLrwjY67X|1
+Game|Space Invaders from Scratch|C++|A tutorial series on building Space Invaders|http://nicktasios.nl/posts/space-invaders-from-scratch-part-1.html|0
+Game|Learn C# by Building a Simple RPG|C#|A project to build a simple RPG in C#|http://scottlilly.com/learn-c-by-building-a-simple-rpg-index/|0
+Game|Creating a Roguelike Game in C#|C#|A guide to building a Roguelike game in C#|https://roguesharp.wordpress.com/|0
+Game|Build a C#/WPF RPG|C#|A project on building an RPG with C#/WPF|https://scottlilly.com/build-a-cwpf-rpg/|0
+Game|Games With Go|Go|A video series on game development with Go|https://www.youtube.com/playlist?list=PLDZujg-VgQlZUy1iCqBbe5faZLMkA3g2x|1
+Game|Code a 2D Game Engine using Java|Java|A video course for building a 2D game engine in Java|https://www.youtube.com/watch?v=025QFeZfeyM|1
+Game|3D Game Development with LWJGL 3|Java|A guide to 3D game development with LWJGL 3|https://lwjglgamedev.gitbooks.io/3d-game-development-with-lwjgl/content/|0
+Game|2D breakout game using Phaser|JavaScript|A tutorial to build a 2D breakout game with Phaser|https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_breakout_game_Phaser|0
+Game|How to Make Flappy Bird in HTML5 With Phaser|JavaScript|A tutorial to create Flappy Bird using Phaser|http://www.lessmilk.com/tutorial/flappy-bird-phaser-1|0
+Game|Developing Games with React, Redux, and SVG|JavaScript|A tutorial series on game development with React, Redux, and SVG|https://auth0.com/blog/developing-games-with-react-redux-and-svg-part-1/|0
+Game|Build your own 8-Ball Pool game from scratch|JavaScript|A video tutorial on building an 8-Ball Pool game|https://www.youtube.com/watch?v=aXwCrtAo4Wc|1
+Game|How to Make Your First Roguelike|JavaScript|A tutorial on building your first Roguelike game|https://gamedevelopment.tutsplus.com/tutorials/how-to-make-your-first-roguelike--gamedev-13677|0
+Game|Think like a programmer: How to build Snake using only JavaScript, HTML & CSS|JavaScript|A guide to building Snake using JavaScript, HTML, and CSS|https://medium.freecodecamp.org/think-like-a-programmer-how-to-build-snake-using-only-javascript-html-and-css-7b1479c3339e|0
+Game|BYTEPATH|Lua|A project on building a game in Lua|https://github.com/SSYGEN/blog/issues/30|0
+Game|Developing Games With PyGame|Python|A series of tutorials on game development with PyGame|https://pythonprogramming.net/pygame-python-3-part-1-intro/|0
+Game|Making Games with Python & Pygame|Python|A book on building games with Python and Pygame|https://inventwithpython.com/makinggames.pdf|0
+Game|Roguelike Tutorial Revised|Python|A step-by-step tutorial on creating a Roguelike game|http://rogueliketutorials.com/|0
+Game|Developing Games With Ruby|Ruby|A book on game development with Ruby|https://leanpub.com/developing-games-with-ruby/read|0
+Game|Ruby Snake|Ruby|A project on building a Snake game in Ruby|https://www.diatomenterprises.com/gamedev-on-ruby-why-not/|0
+Game|Adventures in Rust: A Basic 2D Game|Rust|A guide to building a basic 2D game in Rust|https://a5huynh.github.io/posts/2018/adventures-in-rust/|0
+Game|Roguelike Tutorial in Rust + tcod|Rust|A tutorial on building a Roguelike game in Rust|https://tomassedovic.github.io/roguelike-tutorial/|0
+
+Git|Reimplementing “git clone” in Haskell from the bottom up|Haskell|A guide to reimplementing git clone in Haskell|http://stefan.saasen.me/articles/git-clone-in-haskell-from-the-bottom-up/|0
+Git|Gitlet|JavaScript|A JavaScript implementation of Git|http://gitlet.maryrosecook.com/docs/gitlet.html|0
+Git|Build GIT - Learn GIT|JavaScript|A tutorial on building and learning Git|https://kushagra.dev/blog/build-git-learn-git/|0
+Git|Just enough of a Git client to create a repo, commit, and push itself to GitHub|Python|A guide to creating a simple Git client in Python|https://benhoyt.com/writings/pygit/|0
+Git|Write yourself a Git!|Python|A tutorial on building Git from scratch|https://wyag.thb.lt/|0
+Git|ugit: Learn Git Internals by Building Git Yourself|Python|A project to learn Git internals by building it|https://www.leshenko.net/p/ugit/|0
+Git|Rebuilding Git in Ruby|Ruby|A guide to rebuilding Git in Ruby|https://robots.thoughtbot.com/rebuilding-git-in-ruby|0
+
+Network Stack|Beej's Guide to Network Programming|C|A guide to network programming in C|http://beej.us/guide/bgnet/|0
+Network Stack|Let's code a TCP/IP stack|C|A tutorial series on building a TCP/IP stack|http://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/|0
+Network Stack|Build your own VPN/Virtual Switch|C / Python|A project to build your own VPN/Virtual Switch|https://github.com/peiyuanix/build-your-own-zerotier|0
+Network Stack|How to build a network stack in Ruby|Ruby|A guide to building a network stack in Ruby|https://medium.com/geckoboard-under-the-hood/how-to-build-a-network-stack-in-ruby-f73aeb1b661b|0
+
+Neural Network|Neural Network OCR|C#|A project to build a neural network for OCR in C#|https://www.codeproject.com/Articles/11285/Neural-Network-OCR|0
+Neural Network|Building Neural Networks in F#|F#|A guide to building neural networks in F#|https://towardsdatascience.com/building-neural-networks-in-f-part-1-a2832ae972e6|0
+Neural Network|Build a multilayer perceptron with Golang|Go|A guide to building a multilayer perceptron in Go|https://made2591.github.io/posts/neuralnetwork|0
+Neural Network|How to build a simple artificial neural network with Go|Go|A guide to building a simple neural network in Go|https://sausheong.github.io/posts/how-to-build-a-simple-artificial-neural-network-with-go/|0
+Neural Network|Building a Neural Net from Scratch in Go|Go|A guide to building a neural network from scratch in Go|https://datadan.io/blog/neural-net-with-go|0
+Neural Network|Neural Networks - The Nature of Code|JavaScript / Java|A video series on building neural networks|https://www.youtube.com/playlist?list=PLRqwX-V7Uu6aCibgK1PTWWu9by6XFdCfh|1
+Neural Network|Neural networks from scratch for JavaScript linguists (Part1 — The Perceptron)|JavaScript|A guide to building neural networks from scratch in JavaScript|https://hackernoon.com/neural-networks-from-scratch-for-javascript-linguists-part1-the-perceptron-632a4d1fbad2|0
+Neural Network|A Neural Network in 11 lines of Python|Python|A tutorial on building a neural network in 11 lines of Python|https://iamtrask.github.io/2015/07/12/basic-python-network/|0
+Neural Network|Implement a Neural Network from Scratch|Python|A guide to implementing a neural network from scratch|https://victorzhou.com/blog/intro-to-neural-networks/|0
+Neural Network|Optical Character Recognition (OCR)|Python|A guide to building an OCR using neural networks|http://aosabook.org/en/500L/optical-character-recognition-ocr.html|0
+Neural Network|Traffic signs classification with a convolutional network|Python|A tutorial on traffic signs classification using a convolutional network|https://navoshta.com/traffic-signs-classification/|0
+Neural Network|Generate Music using LSTM Neural Network in Keras|Python|A guide to generating music using LSTM in Keras|https://towardsdatascience.com/how-to-generate-music-using-a-lstm-neural-network-in-keras-68786834d4c5|0
+Neural Network|An Introduction to Convolutional Neural Networks|Python|A guide to building convolutional neural networks|https://victorzhou.com/blog/intro-to-cnns-part-1/|0
+Neural Network|Neural Networks: Zero to Hero|Python|A video series on neural networks from basics to advanced|https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ|1
+
+Operating System|Writing a Tiny x86 Bootloader|Assembly|A tutorial on writing a tiny x86 bootloader|http://joebergeron.io/posts/post_two.html|0
+Operating System|Baking Pi – Operating Systems Development|Assembly|A guide to OS development on the Raspberry Pi|http://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/os/index.html|0
+Operating System|Building a software and hardware stack for a simple computer from scratch|C|A video series on building a computer from scratch|https://www.youtube.com/watch?v=ZjwvMcP3Nf0&list=PLU94OURih-CiP4WxKSMt3UcwMSDM3aTtX|1
+Operating System|Operating Systems: From 0 to 1|C|A tutorial series on OS development|https://tuhdo.github.io/os01/|0
+Operating System|The little book about OS development|C|A guide to OS development|https://littleosbook.github.io/|0
+Operating System|Roll your own toy UNIX-clone OS|C|A tutorial on building a UNIX-like OS|http://jamesmolloy.co.uk/tutorial_html/|0
+Operating System|Kernel 101 – Let’s write a Kernel|C|A guide to writing a basic kernel|https://arjunsreedharan.org/post/82710718100/kernel-101-lets-write-a-kernel|0
+Operating System|Kernel 201 – Let’s write a Kernel with keyboard and screen support|C|A guide to adding keyboard and screen support to a kernel|https://arjunsreedharan.org/post/99370248137/kernel-201-lets-write-a-kernel-with-keyboard|0
+Operating System|Build a minimal multi-tasking kernel for ARM from scratch|C|A guide on building a minimal multi-tasking kernel for ARM|https://github.com/jserv/mini-arm-os|0
+Operating System|How to create an OS from scratch|C|A comprehensive tutorial on creating an OS|https://github.com/cfenollosa/os-tutorial|0
+Operating System|Malloc tutorial|C|A tutorial on implementing malloc|https://danluu.com/malloc-tutorial/|0
+Operating System|Hack the virtual memory|C|A guide to understanding virtual memory|https://blog.holbertonschool.com/hack-the-virtual-memory-c-strings-proc/|0
+Operating System|Learning operating system development using Linux kernel and Raspberry Pi|C|A tutorial on OS development using Linux kernel and Raspberry Pi|https://github.com/s-matyukevich/raspberry-pi-os|0
+Operating System|Operating systems development for Dummies|C|A tutorial series on OS development|https://medium.com/@lduck11007/operating-systems-development-for-dummies-3d4d786e8ac|0
+Operating System|Write your own Operating System|C++|A video series on writing your own OS|https://www.youtube.com/playlist?list=PLHh55M_Kq4OApWScZyPl5HhgsTJS9MZ6M|1
+Operating System|Writing a Bootloader|C++|A tutorial on writing a bootloader|http://3zanders.co.uk/2017/10/13/writing-a-bootloader/|0
+Operating System|Writing an OS in Rust|Rust|A guide on writing an OS in Rust|https://os.phil-opp.com/|0
+Operating System|Add RISC-V Rust Operating System Tutorial|Rust|A tutorial on writing an OS for RISC-V in Rust|https://osblog.stephenmarz.com/|0
+Operating System|Linux from scratch|(any)|A comprehensive guide to building Linux from scratch|https://linuxfromscratch.org/lfs|0
+
+Physics Engine|Video Game Physics Tutorial|C|An introduction to rigid body dynamics in video games|https://www.toptal.com/game/video-game-physics-part-i-an-introduction-to-rigid-body-dynamics|0
+Physics Engine|Game physics series by Allen Chou|C++|A series on game physics by Allen Chou|http://allenchou.net/game-physics-series/|0
+Physics Engine|How to Create a Custom Physics Engine|C++|A series on creating a custom physics engine|https://gamedevelopment.tutsplus.com/series/how-to-create-a-custom-physics-engine--gamedev-12715|0
+Physics Engine|3D Physics Engine Tutorial|C++|A video series on building a 3D physics engine|https://www.youtube.com/playlist?list=PLEETnX-uPtBXm1KEr_2zQ6K_0hoGH6JJ0|1
+Physics Engine|How Physics Engines Work|JavaScript|An introduction to how physics engines work|http://buildnewgames.com/gamephysics/|0
+Physics Engine|Broad Phase Collision Detection Using Spatial Partitioning|JavaScript|A tutorial on collision detection using spatial partitioning|http://buildnewgames.com/broad-phase-collision-detection/|0
+Physics Engine|Build a simple 2D physics engine for JavaScript games|JavaScript|A tutorial on building a simple 2D physics engine|https://developer.ibm.com/tutorials/wa-build2dphysicsengine/?mhsrc=ibmsearch_a&mhq=2dphysic|0
+
+Programming Language|mal - Make a Lisp|(any)|A project to build a Lisp interpreter|https://github.com/kanaka/mal#mal---make-a-lisp|0
+Programming Language|Jonesforth|Assembly|A tutorial on writing a Forth interpreter|https://github.com/nornagon/jonesforth/blob/master/jonesforth.S|0
+Programming Language|Baby's First Garbage Collector|C|A tutorial on building a simple garbage collector|http://journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/|0
+Programming Language|Build Your Own Lisp|C|A project to build a Lisp interpreter in 1000 lines of C|http://www.buildyourownlisp.com/|0
+Programming Language|Writing a Simple Garbage Collector in C|C|A guide to writing a simple garbage collector|http://maplant.com/gc.html|0
+Programming Language|C interpreter that interprets itself.|C|A project to build a C interpreter that interprets itself|https://github.com/lotabout/write-a-C-interpreter|0
+Programming Language|A C & x86 version of the "Let's Build a Compiler"|C|A project to build a compiler in C & x86|https://github.com/lotabout/Let-s-build-a-compiler|0
+Programming Language|A journey explaining how to build a compiler from scratch|C|A guide to building a compiler from scratch|https://github.com/DoctorWkt/acwj|0
+Programming Language|Writing Your Own Toy Compiler Using Flex|C++|A tutorial on writing a toy compiler using Flex|https://gnuu.org/2009/09/18/writing-your-own-toy-compiler/|0
+Programming Language|How to Create a Compiler|C++|A video series on creating a compiler|https://www.youtube.com/watch?v=eF9qWbuQLuw|1
+Programming Language|Kaleidoscope: Implementing a Language with LLVM|C++|A tutorial on implementing a language with LLVM|https://llvm.org/docs/tutorial/MyFirstLanguageFrontend/index.html|0
+Programming Language|Understanding Parser Combinators|F#|A guide to understanding parser combinators in F#|https://fsharpforfunandprofit.com/posts/understanding-parser-combinators/|0
+Programming Language|Demystifying compilers by writing your own|Elixir|A video on writing your own compiler|https://www.youtube.com/watch?v=zMJYoYwOCd4|1
+Programming Language|The Super Tiny Compiler|Go|A guide to building a super tiny compiler|https://github.com/hazbo/the-super-tiny-compiler|0
+Programming Language|Lexical Scanning in Go|Go|A video on lexical scanning in Go|https://www.youtube.com/watch?v=HxaD_trXwRE|1
+Programming Language|Let's Build a Compiler|Haskell|A project on building a compiler in Haskell|https://g-ford.github.io/cradle/|0
+Programming Language|Write You a Haskell|Haskell|A book on building a Haskell interpreter|http://dev.stephendiehl.com/fun/|0
+Programming Language|Write Yourself a Scheme in 48 Hours|Haskell|A guide to building a Scheme interpreter in Haskell|https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours|0
+Programming Language|Write You A Scheme|Haskell|A tutorial series on building a Scheme interpreter|https://www.wespiser.com/writings/wyas/home.html|0
+Programming Language|Crafting interpreters: A handbook for making programming languages|Java|A book on crafting interpreters|http://www.craftinginterpreters.com/|0
+Programming Language|Creating JVM Language|Java|A project on creating a JVM language|http://jakubdziworski.github.io/categories.html#Enkel-ref|0
+Programming Language|The Super Tiny Compiler|JavaScript|A guide to building a super tiny compiler in JavaScript|https://github.com/jamiebuilds/the-super-tiny-compiler|0
+Programming Language|The Super Tiny Interpreter|JavaScript|A guide to building a super tiny interpreter|https://github.com/keyanzhang/the-super-tiny-interpreter|0
+Programming Language|Little Lisp interpreter|JavaScript|A project to build a little Lisp interpreter|https://maryrosecook.com/blog/post/little-lisp-interpreter|0
+Programming Language|How to implement a programming language in JavaScript|JavaScript|A tutorial on implementing a programming language in JavaScript|http://lisperator.net/pltut/|0
+Programming Language|Let’s go write a Lisp|JavaScript|A tutorial series on writing a Lisp in JavaScript|https://idiocy.org/lets-go-write-a-lisp/part-1.html|0
+Programming Language|Writing a C Compiler|OCaml|A guide to writing a C compiler in OCaml|https://norasandler.com/2017/11/29/Write-a-Compiler.html|0
+Programming Language|Writing a Lisp, the series|OCaml|A series on writing a Lisp in OCaml|https://bernsteinbear.com/blog/lisp/|0
+Programming Language|Let's Build a Compiler|Pascal|A guide to building a compiler in Pascal|https://compilers.iecc.com/crenshaw/|0
+Programming Language|A Python Interpreter Written in Python|Python|A guide on building a Python interpreter in Python|http://aosabook.org/en/500L/a-python-interpreter-written-in-python.html|0
+Programming Language|lisp.py: Make your own Lisp interpreter|Python|A guide to building a Lisp interpreter in Python|http://khamidou.com/compilers/lisp.py/|0
+Programming Language|How to Write a Lisp Interpreter in Python|Python|A guide to writing a Lisp interpreter in Python|http://norvig.com/lispy.html|0
+Programming Language|Let’s Build A Simple Interpreter|Python|A series on building a simple interpreter in Python|https://ruslanspivak.com/lsbasi-part1/|0
+Programming Language|Make Your Own Simple Interpreted Programming Language|Python|A video series on building an interpreted programming language|https://www.youtube.com/watch?v=dj9CBS3ikGA&list=PLZQftyCk7_SdoVexSmwy_tBgs7P0b97yD&index=1|1
+Programming Language|From Source Code To Machine Code: Build Your Own Compiler From Scratch|Python|A guide to building a compiler from source code to machine code|https://build-your-own.org/compiler/|0
+Programming Language|Beautiful Racket: How to make your own programming languages with Racket|Racket|A book on building programming languages with Racket|https://beautifulracket.com/|0
+Programming Language|A Compiler From Scratch|Ruby|A screencast series on building a compiler from scratch|https://www.destroyallsoftware.com/screencasts/catalog/a-compiler-from-scratch|0
+Programming Language|Markdown compiler from scratch in Ruby|Ruby|A guide to building a Markdown compiler from scratch|https://blog.beezwax.net/2017/07/07/writing-a-markdown-compiler/|0
+Programming Language|So You Want to Build a Language VM|Rust|A tutorial series on building a language VM in Rust|https://blog.subnetzero.io/post/building-language-vm-part-00/|0
+Programming Language|Learning Parser Combinators With Rust|Rust|A guide to learning parser combinators in Rust|https://bodil.lol/parser-combinators/|0
+Programming Language|Building a LISP from scratch with Swift|Swift|A tutorial on building a Lisp interpreter in Swift|https://www.uraimo.com/2017/02/05/building-a-lisp-from-scratch-with-swift/|0
+Programming Language|Build your own WebAssembly Compiler|TypeScript|A guide to building a WebAssembly compiler in TypeScript|https://blog.scottlogic.com/2019/05/17/webassembly-compiler.html|0
+
+Regex Engine|A Regular Expression Matcher|C|A guide on building a regular expression matcher|https://www.cs.princeton.edu/courses/archive/spr09/cos333/beautiful.html|0
+Regex Engine|Regular Expression Matching Can Be Simple And Fast|C|A tutorial on simple and fast regex matching|https://swtch.com/~rsc/regexp/regexp1.html|0
+Regex Engine|How to build a regex engine from scratch|Go|A guide to building a regex engine in Go|https://rhaeguard.github.io/posts/regex|0
+Regex Engine|Build a Regex Engine in Less than 40 Lines of Code|JavaScript|A guide to building a regex engine in JavaScript|https://nickdrane.com/build-your-own-regex/|0
+Regex Engine|How to implement regular expressions in functional JavaScript using derivatives|JavaScript|A tutorial on implementing regex in functional JavaScript|http://dpk.io/dregs/toydregs|0
+Regex Engine|Implementing a Regular Expression Engine|JavaScript|A guide to implementing a regular expression engine|https://deniskyashif.com/2019/02/17/implementing-a-regular-expression-engine/|0
+Regex Engine|How Regexes Work|Perl|An explanation of how regex engines work|https://perl.plover.com/Regex/article.html|0
+Regex Engine|Build Your Own Regular Expression Engines: Backtracking, NFA, DFA|Python|A tutorial on building regex engines|https://build-your-own.org/b2a/r0_intro|0
+Regex Engine|No Magic: Regular Expressions|Scala|An exploration of how regex engines work|https://rcoh.svbtle.com/no-magic-regular-expressions|0
+
+Search Engine|A search engine in CSS|CSS|An implementation of a search engine in CSS|https://stories.algolia.com/a-search-engine-in-css-b5ec4e902e97|0
+Search Engine|Building a search engine using Redis and redis-py|Python|A guide to building a search engine using Redis and redis-py|http://www.dr-josiah.com/2010/07/building-search-engine-using-redis-and.html|0
+Search Engine|Building a Vector Space Indexing Engine in Python|Python|A guide to building a vector space indexing engine|https://boyter.org/2010/08/build-vector-space-search-engine-python/|0
+Search Engine|Building A Python-Based Search Engine|Python|A video series on building a search engine in Python|https://www.youtube.com/watch?v=cY7pE7vX6MU|1
+Search Engine|Making text search learn from feedback|Python|A tutorial on improving text search with feedback|https://medium.com/filament-ai/making-text-search-learn-from-feedback-4fe210fd87b0|0
+Search Engine|Finding Important Words in Text Using TF-IDF|Python|A guide on finding important words in text using TF-IDF|https://stevenloria.com/tf-idf/|0
+
+Shell|Tutorial - Write a Shell in C|C|A guide to writing a simple shell in C|https://brennan.io/2015/01/16/write-a-shell-in-c/|0
+Shell|Let's build a shell!|C|A workshop on building a shell|https://github.com/kamalmarhubi/shell-workshop|0
+Shell|Writing a UNIX Shell|C|A tutorial on writing a UNIX shell|https://indradhanush.github.io/blog/writing-a-unix-shell-part-1/|0
+Shell|Build Your Own Shell|C|A guide to building your own shell|https://github.com/tokenrove/build-your-own-shell|0
+Shell|Write a shell in C|C|A tutorial on writing a shell in C|https://danishpraka.sh/posts/write-a-shell/|0
+Shell|Writing a simple shell in Go|Go|A guide to writing a simple shell in Go|https://sj14.gitlab.io/post/2018-07-01-go-unix-shell/|0
+Shell|Build Your Own Shell using Rust|Rust|A tutorial on building a shell in Rust|https://www.joshmcguigan.com/blog/build-your-own-shell-rust/|0
+
+Template Engine|JavaScript template engine in just 20 lines|JavaScript|A guide to building a JavaScript template engine|http://krasimirtsonev.com/blog/article/Javascript-template-engine-in-just-20-line|0
+Template Engine|Understanding JavaScript Micro-Templating|JavaScript|An exploration of JavaScript micro-templating|https://medium.com/wdstack/understanding-javascript-micro-templating-f37a37b3b40e|0
+Template Engine|Building a toy template engine in Python|Python|A guide to building a template engine in Python|http://alexmic.net/building-a-template-engine/|0
+Template Engine|A Template Engine|Python|A tutorial on building a template engine|http://aosabook.org/en/500L/a-template-engine.html|0
+Template Engine|How to write a template engine in less than 30 lines of code|Ruby|A guide to writing a template engine in Ruby|http://bits.citrusbyte.com/how-to-write-a-template-library/|0
+
+Text Editor|Build Your Own Text Editor|C|A guide to building a text editor from scratch|https://viewsourcecode.org/snaptoken/kilo/|0
+Text Editor|Designing a Simple Text Editor|C++|A guide on designing a simple text editor|http://www.fltk.org/doc-1.1/editor.html|0
+Text Editor|Python Tutorial: Make Your Own Text Editor|Python|A video tutorial on building a text editor in Python|https://www.youtube.com/watch?v=xqDonHEYPgA|1
+Text Editor|Create a Simple Python Text Editor!|Python|A tutorial on creating a simple text editor in Python|http://www.instructables.com/id/Create-a-Simple-Python-Text-Editor/|0
+Text Editor|Build a Collaborative Text Editor Using Rails|Ruby|A guide to building a collaborative text editor using Rails|https://blog.aha.io/text-editor/|0
+Text Editor|Hecto: Build your own text editor in Rust|Rust|A guide to building a text editor in Rust|https://www.flenker.blog/hecto/|0
+
+Visual Recognition System|Developing a License Plate Recognition System with Machine Learning in Python|Python|A guide on building a license plate recognition system|https://medium.com/devcenter/developing-a-license-plate-recognition-system-with-machine-learning-in-python-787833569ccd|0
+Visual Recognition System|Building a Facial Recognition Pipeline with Deep Learning in Tensorflow|Python|A guide to building a facial recognition pipeline with deep learning|https://hackernoon.com/building-a-facial-recognition-pipeline-with-deep-learning-in-tensorflow-66e7645015b8|0
+
+Voxel Engine|Let's Make a Voxel Engine|C++|A tutorial on making a voxel engine|https://sites.google.com/site/letsmakeavoxelengine/home|0
+Voxel Engine|Java Voxel Engine Tutorial|Java|A video tutorial series on building a voxel engine in Java|https://www.youtube.com/watch?v=QZ4Vk2PkPZk&list=PL80Zqpd23vJfyWQi-8FKDbeO_ZQamLKJL|1
+
+Web Browser|Let's build a browser engine|Rust|A guide to building a browser engine in Rust|https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html|0
+Web Browser|Browser Engineering|Python|A guide to browser engineering|https://browser.engineering|0
+
+Web Server|Writing a Web Server from Scratch|C#|A guide to writing a web server from scratch|https://www.codeproject.com/Articles/859108/Writing-a-Web-Server-from-Scratch|0
+Web Server|Build Your Own Web Server From Scratch In JavaScript|Node.js|A guide to building a web server in JavaScript|https://build-your-own.org/webserver/|0
+Web Server|Let's code a web server from scratch with NodeJS Streams|Node.js|A guide on building a web server with NodeJS streams|https://www.codementor.io/@ziad-saab/let-s-code-a-web-server-from-scratch-with-nodejs-streams-h4uc9utji|0
+Web Server|lets-build-express|Node.js|A guide to building Express.js from scratch|https://github.com/antoaravinth/lets-build-express|0
+Web Server|Writing a webserver in pure PHP|PHP|A tutorial on writing a webserver in PHP|http://station.clancats.com/writing-a-webserver-in-pure-php/|0
+Web Server|A Simple Web Server|Python|A guide on building a simple web server|http://aosabook.org/en/500L/a-simple-web-server.html|0
+Web Server|Let’s Build A Web Server|Python|A tutorial series on building a web server in Python|https://ruslanspivak.com/lsbaws-part1/|0
+Web Server|Web application from scratch|Python|A tutorial series on building a web application from scratch|https://defn.io/2018/02/25/web-app-from-scratch-01/|0
+Web Server|Building a basic HTTP Server from scratch in Python|Python|A guide to building a basic HTTP server in Python|http://joaoventura.net/blog/2017/python-webserver/|0
+Web Server|Implementing a RESTful Web API with Python & Flask|Python|A guide to building a RESTful web API with Python and Flask|http://blog.luisrei.com/articles/flaskrest.html|0
+Web Server|Building a simple websockets server from scratch in Ruby|Ruby|A guide to building a simple websockets server in Ruby|http://blog.honeybadger.io/building-a-simple-websockets-server-from-scratch-in-ruby/|0
+
+Uncategorized|From NAND to Tetris: Building a Modern Computer From First Principles|(any)|A comprehensive guide to building a modern computer from scratch|http://nand2tetris.org/|0
+Uncategorized|The Same-Origin Policy|Alloy|An exploration of the same-origin policy in web browsers|http://aosabook.org/en/500L/the-same-origin-policy.html|0
+Uncategorized|How to Write a Video Player in Less Than 1000 Lines|C|A tutorial on writing a video player|http://dranger.com/ffmpeg/ffmpeg.html|0
+Uncategorized|Learn how to write a hash table in C|C|A guide on building a hash table in C|https://github.com/jamesroutley/write-a-hash-table|0
+Uncategorized|The very basics of a terminal emulator|C|An introduction to terminal emulator basics|https://www.uninformativ.de/blog/postings/2018-02-24/0/POSTING-en.html|0
+Uncategorized|Write a System Call|C|A tutorial on writing a system call in C|https://brennan.io/2016/11/14/kernel-dev-ep3/|0
+Uncategorized|Sol - An MQTT broker from scratch|C|A guide to building an MQTT broker from scratch|https://codepr.github.io/posts/sol-mqtt-broker|0
+Uncategorized|Build your own VR headset for $200|C++|A guide on building a VR headset|https://github.com/relativty/Relativ|0
+Uncategorized|How X Window Managers work and how to write one|C++|A tutorial on writing an X window manager|https://seasonofcode.com/posts/how-x-window-managers-work-and-how-to-write-one-part-i.html|0
+Uncategorized|Writing a Linux Debugger|C++|A guide on writing a Linux debugger|https://blog.tartanllama.xyz/writing-a-linux-debugger-setup/|0
+Uncategorized|How a 64k intro is made|C++|An exploration of how a 64k intro is made|http://www.lofibucket.com/articles/64k_intro.html|0
+Uncategorized|Make your own Game Engine|C++|A video series on making a game engine|https://www.youtube.com/playlist?list=PLlrATfBNZ98dC-V-N3m0Go4deliWHPFwT|1
+Uncategorized|C# Networking: Create a TCP chat server, TCP games, UDP Pong and more|C#|A guide to networking in C#|https://16bpp.net/tutorials/csharp-networking|0
+Uncategorized|Loading and rendering 3D skeletal animations from scratch in C# and GLSL|C#|A guide to 3D skeletal animations in C# and GLSL|https://www.seanjoflynn.com/research/skeletal-animation.html|0
+Uncategorized|Building a spell-checker|Clojure|A tutorial on building a spell-checker|https://bernhardwenzel.com/articles/clojure-spellchecker/|0
+Uncategorized|Build A Simple Terminal Emulator In 100 Lines of Golang|Go|A guide to building a terminal emulator in Go|https://ishuah.com/2021/03/10/build-a-terminal-emulator-in-100-lines-of-go/|0
+Uncategorized|Let's Create a Simple Load Balancer|Go|A guide on creating a simple load balancer|https://kasvith.me/posts/lets-create-a-simple-lb-go/|0
+Uncategorized|Video Encoding from Scratch|Go|A guide to video encoding from scratch|https://github.com/kevmo314/codec-from-scratch|0
+Uncategorized|How to Build an Android Reddit App|Java|A video series on building a Reddit app for Android|https://www.youtube.com/playlist?list=PLgCYzUzKIBE9HUJU-upNvl3TRVAo9W47y|1
+Uncategorized|Build Your Own Module Bundler - Minipack|JavaScript|A guide to building a module bundler|https://github.com/ronami/minipack|0
+Uncategorized|Learn JavaScript Promises by Building a Promise from Scratch|JavaScript|A tutorial on building promises in JavaScript|https://levelup.gitconnected.com/understand-javascript-promises-by-building-a-promise-from-scratch-84c0fd855720|0
+Uncategorized|Implementing promises from scratch (TDD way)|JavaScript|A guide on implementing promises with TDD|https://www.mauriciopoppe.com/notes/computer-science/computation/promises/|0
+Uncategorized|Implement your own — call(), apply() and bind() method in JavaScript|JavaScript|A tutorial on implementing call(), apply(), and bind()|https://blog.usejournal.com/implement-your-own-call-apply-and-bind-method-in-javascript-42cc85dba1b|0
+Uncategorized|JavaScript Algorithms and Data Structures|JavaScript|A collection of JavaScript algorithms and data structures|https://github.com/trekhleb/javascript-algorithms|0
+Uncategorized|Build a ride hailing app with React Native|JavaScript|A guide to building a ride-hailing app with React Native|https://pusher.com/tutorials/ride-hailing-react-native|0
+Uncategorized|Build Your Own AdBlocker in (Literally) 10 Minutes|JavaScript|A guide on building an ad blocker|https://levelup.gitconnected.com/building-your-own-adblocker-in-literally-10-minutes-1eec093b04cd|0
+Uncategorized|Build Your Own Cache|Kotlin|A guide to building a cache in Kotlin|https://github.com/kezhenxu94/cache-lite|0
+Uncategorized|Building a CDN from Scratch to Learn about CDN|Lua|A guide to building a content delivery network|https://github.com/leandromoreira/cdn-up-and-running|0
+Uncategorized|Writing a Redis Protocol Parser|Nim|A guide on writing a Redis protocol parser|https://xmonader.github.io/nimdays/day12_resp.html|0
+Uncategorized|Writing a Build system|Nim|A guide to writing a build system in Nim|https://xmonader.github.io/nimdays/day11_buildsystem.html|0
+Uncategorized|Writing a MiniTest Framework|Nim|A tutorial on building a mini test framework|https://xmonader.github.io/nimdays/day08_minitest.html|0
+Uncategorized|Writing a DMIDecode Parser|Nim|A guide to building a DMIDecode parser|https://xmonader.github.io/nimdays/day01_dmidecode.html|0
+Uncategorized|Writing a INI Parser|Nim|A guide on building an INI parser|https://xmonader.github.io/nimdays/day05_iniparser.html|0
+Uncategorized|Writing a Link Checker|Nim|A guide to building a link checker|https://xmonader.github.io/nimdays/day04_asynclinkschecker.html|0
+Uncategorized|Writing a URL Shortening Service|Nim|A guide to building a URL shortening service|https://xmonader.github.io/nimdays/day07_shorturl.html|0
+Uncategorized|Build a static site generator in 40 lines with Node.js|Node.js|A guide to building a static site generator|https://www.webdevdrops.com/en/build-static-site-generator-nodejs-8969ebe34b22/|0
+Uncategorized|Building A Simple Single Sign On(SSO) Server And Solution From Scratch In Node.js.|Node.js|A guide to building an SSO server in Node.js|https://codeburst.io/building-a-simple-single-sign-on-sso-server-and-solution-from-scratch-in-node-js-ea6ee5fdf340|0
+Uncategorized|How to create a real-world Node CLI app with Node|Node.js|A guide on building a real-world Node CLI app|https://medium.freecodecamp.org/how-to-create-a-real-world-node-cli-app-with-node-391b727bbed3|0
+Uncategorized|Build a DNS Server in Node.js|Node.js|A guide to building a DNS server in Node.js|https://engineerhead.github.io/dns-server/|0
+Uncategorized|Write your own MVC from scratch in PHP|PHP|A tutorial on writing an MVC framework in PHP|https://chaitya62.github.io/2018/04/29/Writing-your-own-MVC-from-Scratch-in-PHP.html|0
+Uncategorized|Make your own blog|PHP|A guide to making your own blog in PHP|https://ilovephp.jondh.me.uk/en/tutorial/make-your-own-blog|0
+Uncategorized|Modern PHP Without a Framework|PHP|A guide on using modern PHP without a framework|https://kevinsmith.io/modern-php-without-a-framework|0
+Uncategorized|Code a Web Search Engine in PHP|PHP|A tutorial on coding a web search engine in PHP|https://boyter.org/2013/01/code-for-a-search-engine-in-php-part-1/|0
+Uncategorized|Build a Deep Learning Library|Python|A video guide to building a deep learning library|https://www.youtube.com/watch?v=o64FV-ez6Gw|1
+Uncategorized|How to Build a Kick-Ass Mobile Document Scanner in Just 5 Minutes|Python|A guide on building a mobile document scanner|https://www.pyimagesearch.com/2014/09/01/build-kick-ass-mobile-document-scanner-just-5-minutes/|0
+Uncategorized|Continuous Integration System|Python|A guide to building a continuous integration system|http://aosabook.org/en/500L/a-continuous-integration-system.html|0
+Uncategorized|Recommender Systems in Python: Beginner Tutorial|Python|A tutorial on building recommender systems in Python|https://www.datacamp.com/community/tutorials/recommender-systems-python|0
+Uncategorized|Write SMS-spam detector with Scikit-learn|Python|A guide to building an SMS spam detector|https://medium.com/@kopilov.vlad/detect-sms-spam-in-kaggle-with-scikit-learn-5f6afa7a3ca2|0
+Uncategorized|A Simple Content-Based Recommendation Engine in Python|Python|A guide to building a content-based recommendation engine|http://blog.untrod.com/2016/06/simple-similar-products-recommendation-engine-in-python.html|0
+Uncategorized|Stock Market Predictions with LSTM in Python|Python|A guide to using LSTM for stock market predictions|https://www.datacamp.com/community/tutorials/lstm-python-stock-market|0
+Uncategorized|Building a simple Generative Adversarial Network (GAN) using Tensorflow|Python|A guide on building a simple GAN using TensorFlow|https://blog.paperspace.com/implementing-gans-in-tensorflow/|0
+Uncategorized|Learn ML Algorithms by coding: Decision Trees|Python|A guide to learning decision trees by coding|https://lethalbrains.com/learn-ml-algorithms-by-coding-decision-trees-439ac503c9a4|0
+Uncategorized|JSON Decoding Algorithm|Python|A tutorial on JSON decoding algorithms|https://github.com/cheery/json-algorithm|0
+Uncategorized|Build your own Git plugin with python|Python|A guide on building a Git plugin|https://joshburns-xyz.vercel.app/posts/build-your-own-git-plugin|0
+Uncategorized|A Pedometer in the Real World|Ruby|A guide on building a pedometer|http://aosabook.org/en/500L/a-pedometer-in-the-real-world.html|0
+Uncategorized|Creating a Linux Desktop application with Ruby|Ruby|A guide to building a Linux desktop application with Ruby|https://iridakos.com/tutorials/2018/01/25/creating-a-gtk-todo-application-with-ruby|0
+Uncategorized|Building a DNS server in Rust|Rust|A guide to building a DNS server in Rust|https://github.com/EmilHernvall/dnsguide/blob/master/README.md|0
+Uncategorized|Writing Scalable Chat Service from Scratch|Rust|A guide to building a scalable chat service|https://nbaksalyar.github.io/2015/07/10/writing-chat-in-rust.html|0
+Uncategorized|WebGL + Rust: Basic Water Tutorial|Rust|A guide on building a WebGL water simulation|https://www.chinedufn.com/3d-webgl-basic-water-tutorial/|0
+Uncategorized|Tiny Package Manager: Learns how npm or Yarn works|TypeScript|A guide to building a package manager|https://github.com/g-plane/tiny-package-manager|0
